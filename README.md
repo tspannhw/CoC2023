@@ -1,4 +1,5 @@
-# CoC2023
+### CoC 2023
+
 Community over Code, Apache NiFi, Apache Kafka, Apache Flink, Python, GTFS, Transit, Open Source, Open Data
 
 
@@ -9,6 +10,7 @@ https://www.slideshare.net/bunkertor/coc23utilizing-realtime-transit-data-for-tr
 
 ### Articles
 
+* https://medium.com/@tspann/open-source-streaming-talks-in-progress-3e75af8848b0
 * https://medium.com/cloudera-inc/cdc-not-cat-data-capture-e43713879c03
 * https://medium.com/cloudera-inc/finding-the-best-way-around-7491c76ca4cb
 * https://medium.com/cloudera-inc/using-apache-nifi-to-backup-and-restore-minifi-flows-from-cloudera-efm-87f303b56ebd
@@ -46,22 +48,22 @@ https://www.slideshare.net/bunkertor/coc23utilizing-realtime-transit-data-for-tr
 * https://github.com/tspannhw/flank-airquality
 * https://github.com/tspannhw/FLaNK-Py-VOC-Sensors
 * https://github.com/tspannhw/Flow-SGP30-MLX90640
-* 
+
 
 
 ### Info
 
-October 8, 2023: Streaming Track, Room 102 
+#### October 8, 2023: Streaming Track, Room 102 
 
-https://communityovercode.org/schedule/#Oct8 
+* https://communityovercode.org/schedule/#Oct8 
 
-https://communityovercode.org/schedule-list/#SG007 
+* https://communityovercode.org/schedule-list/#SG007 
 
-https://communityovercode.org/schedule-list/#SG011
+* https://communityovercode.org/schedule-list/#SG011
 
-October 10, 2023: Internet of Things Track, Room 109 
+#### October 10, 2023: Internet of Things Track, Room 109 
 
-https://communityovercode.org/schedule/#Oct10 
+* https://communityovercode.org/schedule/#Oct10 
 
-https://communityovercode.org/schedule-list/#IOT001
+* https://communityovercode.org/schedule-list/#IOT001
 
