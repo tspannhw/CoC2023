@@ -3,6 +3,10 @@
 Community over Code, Apache NiFi, Apache Kafka, Apache Flink, Python, GTFS, Transit, Open Source, Open Data
 
 
+
+![qr](https://github.com/tspannhw/CoC2023/blob/main/coc2023qr.png?raw=true)
+
+
 ### Talks
 
 https://www.slideshare.net/bunkertor/coc23utilizing-realtime-transit-data-for-travel-optimization
