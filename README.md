@@ -101,6 +101,7 @@ Tim Spann is a Principal Developer Advocate in Data In Motion for Cloudera. He w
 * https://github.com/tspannhw/flank-airquality
 * https://github.com/tspannhw/FLaNK-Py-VOC-Sensors
 * https://github.com/tspannhw/Flow-SGP30-MLX90640
+* https://github.com/tspannhw/FLiP-Current22-LetsMonitorAllTheThings
 
 
 
