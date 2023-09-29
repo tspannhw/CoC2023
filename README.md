@@ -8,6 +8,55 @@ Community over Code, Apache NiFi, Apache Kafka, Apache Flink, Python, GTFS, Tran
 https://www.slideshare.net/bunkertor/coc23utilizing-realtime-transit-data-for-travel-optimization
 
 
+### Talk Details
+
+````
+Let’s Monitor The Conditions at the Conference
+https://communityovercode.org/schedule-list/#IOT001
+
+At home, I monitor the temperature, humidity, gas levels, ozone, air quality, and other features around my desk.
+Let’s bring this to the different spots around the conference including lunch tables, vendor booths, hotel rooms, and more. I need to know about these readings now, not when I get back home from the conference. We need to get these sensor readings immediately in case we need to turn on a fan or move to another area. We will also see if my talk produces a lot of hot air!?!??
+My setup is pretty simple, a raspberry pi, a breakout garden sensor mount, and as many sensors as I can carry. All code and parameters will be available ASF-licensed in github.
+The software stack is Python and Java, MQTT, HTML, JQuery, and Apache NiFi, Apache Kafka and Apache Flink.
+
+Speaker: Timothy J. Spann
+Tim Spann is a Principal Developer Advocate in Data In Motion for Cloudera. He works with Apache NiFi, Apache Kafka, Apache Pulsar, Apache Flink, Flink SQL, Apache Pinot, Trino, Apache Iceberg, DeltaLake, Apache Spark, Big Data, IoT, Cloud, AI/DL, machine learning, and deep learning. Tim has over ten years of experience with the IoT, big data, distributed computing, messaging, streaming technologies, and Java programming. Previously, he was a Developer Advocate at StreamNative, Principal DataFlow Field Engineer at Cloudera, a Senior Solutions Engineer at Hortonworks, a Senior Solutions Architect at AirisData, a Senior Field Engineer at Pivotal and a Team Leader at HPE. He blogs for DZone, where he is the Big Data Zone leader, and runs a popular meetup in Princeton & NYC on Big Data, Cloud, IoT, deep learning, streaming, NiFi, the blockchain, and Spark.
+
+
+Utilizing Real-Time Transit Data for Travel Optimization
+https://communityovercode.org/schedule-list/#SG007
+
+There are a lot of factors involved in determining how you can find our way around and avoid delays, bad weather,
+dangers and expenses. In this talk I will focus on public transport in the largest transit system in the United States, the MTA,
+which is focused around New York City. Utilizing public and semi-public data feeds, this can be extended to most city and
+metropolitan areas around the world. As a personal example, I live in New Jersey and this is an extremely useful use of open source and public
+data.
+Once I am notified that I need to travel to Manhattan, I need to start my data streams flowing. Most of the data sources are REST feeds that are ingested
+by Apache NiFi to transform, convert, enrich and finalize it for usage in streaming tables with Flink SQL, but also keep that same contract with Kafka consumers,
+Iceberg tables and other users of this data. I do not need to many user interfaces to interopt with the system as I want my final decision sent in a Slack message
+to me and then I’ll get moving. Along the way data will be visible in NiFi lineage, Kafka topic views, Flink SQL output, REST output and Iceberg tables.
+Apache NiFi, Apache Kafka, Apache OpenNLP,
+Apache Tika, Apache Flink, Apache Avro, Apache Parquet, Apache Iceberg
+
+Speaker: Timothy J. Spann
+Tim Spann is a Principal Developer Advocate in Data In Motion for Cloudera. He works with Apache NiFi, Apache Kafka, Apache Pulsar, Apache Flink, Flink SQL, Apache Pinot, Trino, Apache Iceberg, DeltaLake, Apache Spark, Big Data, IoT, Cloud, AI/DL, machine learning, and deep learning. Tim has over ten years of experience with the IoT, big data, distributed computing, messaging, streaming technologies, and Java programming. Previously, he was a Developer Advocate at StreamNative, Principal DataFlow Field Engineer at Cloudera, a Senior Solutions Engineer at Hortonworks, a Senior Solutions Architect at AirisData, a Senior Field Engineer at Pivotal and a Team Leader at HPE. He blogs for DZone, where he is the Big Data Zone leader, and runs a popular meetup in Princeton & NYC on Big Data, Cloud, IoT, deep learning, streaming, NiFi, the blockchain, and Spark.
+
+
+
+Looking at the New Features of Apache NiFi
+https://communityovercode.org/schedule-list/#SG011
+
+Apache NiFi has a lot of new features, processors and best practices that have arrived in the last year or so.
+I will walk through building flows using the latest tips, techniques and processor.
+I will and change a number of data flows utilizing the latest NiFi version and point out gotchas and some never dos. The deck will act as a take-away with notes, tips and guides to what we covered.
+
+Speaker: Timothy J. Spann
+Tim Spann is a Principal Developer Advocate in Data In Motion for Cloudera. He works with Apache NiFi, Apache Kafka, Apache Pulsar, Apache Flink, Flink SQL, Apache Pinot, Trino, Apache Iceberg, DeltaLake, Apache Spark, Big Data, IoT, Cloud, AI/DL, machine learning, and deep learning. Tim has over ten years of experience with the IoT, big data, distributed computing, messaging, streaming technologies, and Java programming. Previously, he was a Developer Advocate at StreamNative, Principal DataFlow Field Engineer at Cloudera, a Senior Solutions Engineer at Hortonworks, a Senior Solutions Architect at AirisData, a Senior Field Engineer at Pivotal and a Team Leader at HPE. He blogs for DZone, where he is the Big Data Zone leader, and runs a popular meetup in Princeton & NYC on Big Data, Cloud, IoT, deep learning, streaming, NiFi, the blockchain, and Spark.
+
+
+````
+
+
 ### Articles
 
 * https://medium.com/@tspann/open-source-streaming-talks-in-progress-3e75af8848b0
