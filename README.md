@@ -121,3 +121,12 @@ Tim Spann is a Principal Developer Advocate in Data In Motion for Cloudera. He w
 
 * https://communityovercode.org/schedule-list/#IOT001
 
+
+#### Links
+
+* https://cwiki.apache.org/confluence/display/NIFI/NiFi+2.0+Release+Goals 
+
+* https://medium.com/cloudera-inc/getting-ready-for-apache-nifi-2-0-5a5e6a67f450 
+
+* https://cwiki.apache.org/confluence/display/NIFI/Deprecated+Components+and+Features
+
