@@ -4,13 +4,12 @@ Community over Code, Apache NiFi, Apache Kafka, Apache Flink, Python, GTFS, Tran
 
 
 
-![qr](https://github.com/tspannhw/CoC2023/blob/main/coc2023qr.png?raw=true)
-
 
 ### Talks
 
 https://www.slideshare.net/bunkertor/coc23utilizing-realtime-transit-data-for-travel-optimization
-
+https://www.slideshare.net/bunkertor/coc23-lets-monitor-the-conditions-at-the-conference
+https://www.slideshare.net/bunkertor/coc23-looking-at-the-new-features-of-apache-nifi
 
 ### Talk Details
 
